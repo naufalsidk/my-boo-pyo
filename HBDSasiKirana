@@ -7,7 +7,7 @@
 <body>
 				<button>putar dulu musiknya!</button>
 				
-				<audio controls="true"> <source src="https://naufalsidk.github.io/Blue%20Jeans.mp3" type="audio/mpeg"> Browsermu tidak mendukung tag audio, upgrade donk! </audio>
+				<audio controls="true"> <source src="https://naufalsidk.github.io/hbd.mp3" type="audio/mpeg"> Browsermu tidak mendukung tag audio, upgrade donk! </audio>
 				<h2>
 							<button
 							onClick="alert('Halo'); alert('Sasi kirana'); alert('Selamat Ulang Tahun ya!'); alert('semoga sukses dalam perjuangannya'); alert('diberikan kesehatan'); alert('sehat lahir batin'); alert('diberikan kedewasaan'); alert('diberikan kesabaran'); alert('dalam menghadapi segala rintangan kehidupan'); alert('dari hari ini'); alert('sampai hari esok nanti'); alert('segala keinginannya terkabul'); alert('dan terbaik untukmu'); alert('lanjuttombol ke 2 !')">Tombol kesatu sang ucapan pertama
